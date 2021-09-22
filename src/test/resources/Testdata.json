@@ -1,0 +1,5 @@
+{
+"uri":"https://heisenbergproxies2.azurewebsites.net/int/auth/user/authenticate",
+"statusCode": "200",
+"payload":"authToken"
+}

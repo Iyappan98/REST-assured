@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6814" started-at="2021-09-20T23:00:17 IST" finished-at="2021-09-20T23:00:23 IST">
+  <suite name="Default suite" duration-ms="26352" started-at="2021-09-22T22:36:03 IST" finished-at="2021-09-22T22:36:29 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6814" started-at="2021-09-20T23:00:17 IST" finished-at="2021-09-20T23:00:23 IST">
+    <test name="Default test" duration-ms="26352" started-at="2021-09-22T22:36:03 IST" finished-at="2021-09-22T22:36:29 IST">
       <class name="I_Project.FirstTest">
-        <test-method status="PASS" signature="getAuthToken()[pri:0, instance:I_Project.FirstTest@34c4973]" name="getAuthToken" duration-ms="6742" started-at="2021-09-20T23:00:17 IST" finished-at="2021-09-20T23:00:23 IST">
+        <test-method status="PASS" signature="getAuthToken()[pri:0, instance:I_Project.FirstTest@34c4973]" name="getAuthToken" duration-ms="26280" started-at="2021-09-22T22:36:03 IST" finished-at="2021-09-22T22:36:29 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getAuthToken -->
